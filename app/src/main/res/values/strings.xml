@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="Top_logindisp">Existing User? Login!</string>
+    <string name="Userhint">Email</string>
+    <string name="Passhint">Password</string>
+    <string name="Remember">Remember me</string>
+    <string name="register">Register</string>
+    <string name="create">Registration</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="phone">Phone</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="country">Select a Country</string>
+    <string name="submit">Submit</string>
+    <string name="logout">logout</string>
+    <string name="login">login</string>
+    <string name="replace">Hello</string>
+    <string name="or">or</string>
+    <string name="todo">TODO</string>
+
+</resources>
